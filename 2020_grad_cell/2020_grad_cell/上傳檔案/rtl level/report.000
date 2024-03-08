@@ -1,0 +1,16 @@
+
+FTP account:                       
+
+Total simulation cycle (cycle):   1594 
+Simulation score (score):    100
+
+--- RTL category---
+HDL simulator :                    vsim
+RTL filename :                     SME.v            
+
+--- Pre-layout gate-level ---
+gate-levelfilename:                SME_syn.v  
+gate-level sdf filename:           SME_syn.sdf        
+
+-----(annotation)--------------------------------------------------------
+ (optional, write down anything that you want grader know)
